@@ -1,0 +1,1 @@
+<?php header("Location: ps2u_local/index.php"); ?>
