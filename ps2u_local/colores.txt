@@ -1,0 +1,4 @@
+#c313b7 - pinkmorado
+#65607b - grey
+#501755 - morado
+#fff - blanco
