@@ -1,5 +1,0 @@
-DB
-name:id14288695_ps2u
-username:id14288695_realdextroyer
-password:Cty^RkV~L<]NBOe7
-host:localhost
